@@ -1,0 +1,4 @@
+npm install json-server -g
+karma start karma.conf.js
+
+json-server --watch db.json
