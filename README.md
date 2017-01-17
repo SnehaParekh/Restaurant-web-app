@@ -1,0 +1,2 @@
+# Restaurant-web-app
+A web application that allows the user to glance through the menu, filter it for personal preferences, submit ratings, send a message if they have an inquiry or complain and book table online. This app is based on the concept of SPA, hence doing all the rendering on the client side. The backend consists of a json-server. The database is in JSON format. The client and server communicate using RESTful services
